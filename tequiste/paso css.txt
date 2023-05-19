@@ -1,0 +1,115 @@
+
+<div class="linea" id="lineagal"></div>
+
+<div class="linea" id="lineaconta"></div>
+
+#lineaconta {  
+    position: relative;
+    top: 4px;
+    width: 100%;
+    height: 4px;
+    background: #191c1c;    
+}
+
+----------------
+Roboto-Medium
+Roboto-Regular
+Roboto-Light
+Roboto-Thin
+bahnschrift
+-------------
+- titulos-
+font-family: 'Roboto-Medium';  
+font-size:26px;
+text-align: center;   
+---------------------------
+-linea gruesa-
+-antes de section-
+<div class="linea" id="lineaconcepx"></div> - linea gruesa-
+.linea {
+    width: 100%;
+    height: 4px;
+}
+#lineaconcep {
+    position: relative;
+    top: 4px; 
+    width: 100%;
+    height: 4px;
+    background: #000;    
+}
+------------------------------------
+-linea delgada-
+
+.lineadel {
+    width: 100%;
+    height: 1px;    
+    position: relative;
+	background: #000000;    
+}
+
+<div class="lineadel" id="lineagaldelx"></div>
+
+#lineagaldel {    
+    top: 25px;
+}
+
+----------------
+-colores-
+background: #e9e3e2; -grisclaro contacto-
+background: #191c1c; -negro- 
+background: #bb1212; -rojo-
+background: rgba(100,100,100,.3); -transparencia-
+
+---------
+display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+---------
+https://twitter.com/joelgs12
+
+<a id="" href=""><img src="img/lgo-jgs-gris2.png" alt=""></a> 
+
+<a id="enlace1" href="https://www.yahoo.com/"><img src="img/lgo-jgs-gris2.png" alt="enlace1"></a>
+---------
+
+---secciones---
+----------------------------------
+#secconceptos {	  
+	padding: 20px;	
+    background: #fff;
+	color: #000;
+	text-align: center;    
+}
+--------------------------------------
+#seccionservicios {       
+	height: 270px; 
+    background:  #191c1c;
+	color: #fff;
+	padding: 20px;	
+}
+-----------------------------------------
+.secgaleria {	
+	padding: 20px;	   
+    background: #fff;
+    color: #000;   
+}
+-----------------------
+.seccontacto {
+    background: #a6a6a6;    
+}
+----------------
+pading en seccion contacto
+padding: 20px;
+-----------------------------
+footer {
+	background: #262626;
+	color: #fff;
+	padding: 20px;
+	font-size: .9em;
+	display: flex;
+	justify-content: center;	
+}
+----------------------------------
+------------------------
+

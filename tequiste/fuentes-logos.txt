@@ -1,0 +1,16 @@
+
+ 
+------------
+JOEL GARCIA - Tipografia Bahnschrift en bold,  tamaño 20,  estirada hacia arriba altura 5.5 ( altura normal tamaño 20 es 5.113)
+-------------------
+ARQUITECTO - Tipografia Bahnschrift en Light tamaño 20, estirada hacia arriba altura 5.5 (altura normal tamaño 20 es 5.144), Posteriormente escalada hasta alinear con JOEL GARCIA 
+
+AVALUOS, PROYECTOS - Misma tipografia que JOEL GARCIA, escaladas hasta alinear con logo en limites izq y derecho
+
+ARQUITECTURA - Misma tipografia que JOEL GARCIA, escalada hasta alinear con logo en limites izq y derecho en segunda y penultima letras (AR y RA) 
+
+-----------------
+Staatliches-Regular
+RedHatText-Medium
+PoiretOne-Regular
+Spartan-Medium
